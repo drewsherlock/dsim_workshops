@@ -1,0 +1,130 @@
+ID,thread_length,thread_pitch,head_length,diameter,type
+B322,25,0.39,13,1.9,British Association screw
+B325,16,0.73,13,2.1,British Association screw
+B334,9.5,0.81,6.5,1.8,British Association screw
+B300,75,0.28,13,1.8,British Association screw
+B305,38,0.9,13,1.8,British Association screw
+B333,32,0.66,6.5,2.4,British Association screw
+B330,75,0.21,6.5,1.5,British Association screw
+B331,9.5,0.48,13,1.4,British Association screw
+B332,100,0.31,13,2.3,British Association screw
+B335,63,0.59,6.5,1.8,British Association screw
+B336,38,0.73,6.5,2.1,British Association screw
+B337,16,0.25,6.5,2.4,British Association screw
+B338,13,0.28,6.5,2.3,British Association screw
+B314,100,0.9,6.5,2.2,British Association screw
+B315,9.5,0.73,13,2.3,British Association screw
+B307,25,0.21,13,2,British Association screw
+B308,75,0.66,13,1.9,British Association screw
+B309,25,1,13,2.1,British Association screw
+B310,25,0.23,6.5,2,British Association screw
+B311,19,0.35,9.5,2.4,British Association screw
+B342,38,0.23,13,2.3,British Association screw
+B343,9.5,0.35,6.5,1.9,British Association screw
+B344,19,0.25,9.5,2,British Association screw
+B345,38,1,13,2.3,British Association screw
+B323,75,0.9,6.5,1.8,British Association screw
+B324,75,0.48,6.5,1.8,British Association screw
+B327,63,0.59,9.5,1.9,British Association screw
+B301,32,1,6.5,2.2,British Association screw
+B302,16,0.43,13,2.1,British Association screw
+B303,9.5,0.73,13,1.7,British Association screw
+B304,16,1,9.5,1.8,British Association screw
+B299,32,0.73,9.5,2.1,British Association screw
+B306,38,0.48,12.7,2.5,British Association screw
+B297,63,0.53,9.5,2.5,British Association screw
+B298,38,0.21,9.5,1.9,British Association screw
+B312,9.5,0.66,6.5,2.3,British Association screw
+B313,25,0.23,6.5,1.8,British Association screw
+B316,19,0.73,6.5,1.5,British Association screw
+B195,2,1.81,15.5788,22.91,British Standard Whitworth screw
+B198,25.4,2.12,12.94,19.05,British Standard Whitworth screw
+B206,25.4,2.12,12.954,19.05,British Standard Whitworth screw
+B207,12.7,0.91,3.7808,5.56,British Standard Whitworth screw
+B196,1.5,1.34,8.9488,13.16,British Standard Whitworth screw
+B199,30.96367188,1.81,7.5548,11.11,British Standard Whitworth screw
+B201,25.4,1.59,8.636,12.7,British Standard Whitworth screw
+B211,50.8,3.18,17.272,25.4,British Standard Whitworth screw
+B213,50.8,2.12,9.7172,14.29,British Standard Whitworth screw
+B202,1.5,1.59,8.636,12.7,British Standard Whitworth screw
+B203,2,1.06,3.2368,4.76,British Standard Whitworth screw
+B210,12.7,2.31,11.8728,17.46,British Standard Whitworth screw
+B204,12.7,1.81,17.9792,26.44,British Standard Whitworth screw
+B209,6.35,1.59,9.7172,14.29,British Standard Whitworth screw
+B200,2,3.18,17.272,25.4,British Standard Whitworth screw
+B212,19.05,0.91,6.6164,9.73,British Standard Whitworth screw
+B208,1.5,1.81,17.9792,26.44,British Standard Whitworth screw
+B216,12.7,1.59,6.4804,9.53,British Standard Whitworth screw
+B214,6.35,1.34,11.3288,16.66,British Standard Whitworth screw
+B215,25.4,1.34,11.3288,16.66,British Standard Whitworth screw
+B197,38.1,0.79,3.2368,4.76,British Standard Whitworth screw
+B232,50,2.5,11.25,18,Metric screw
+B233,30,1,3.75,6,Metric screw
+B255,15,0.7,2.5,4,Metric screw
+B218,60,0.75,3.75,6,Metric screw
+B219,20,3,15,24,Metric screw
+B220,50,1.5,11.25,18,Metric screw
+B289,40,1,3.75,60,Metric screw
+B221,40,0.5,1.875,3,Metric screw
+B222,30,1.5,6.25,10,Metric screw
+B223,25,1.5,8.75,14,Metric screw
+B225,10,0.25,1.25,2,Metric screw
+B226,15,0.6,2.1875,3.5,Metric screw
+B227,15,2.5,13.75,22,Metric screw
+B234,35,2,11.25,18,Metric screw
+B235,30,2,8.75,14,Metric screw
+B236,20,1.25,5,8,Metric screw
+B237,35,2.5,13.75,22,Metric screw
+B238,30,0.4,1.25,2,Metric screw
+B239,15,1.5,13.75,22,Metric screw
+B240,10,2,18.75,30,Metric screw
+B241,35,2,18.75,30,Metric screw
+B242,10,2,15,24,Metric screw
+B243,40,1.5,13.75,22,Metric screw
+B244,25,0.5,2.5,4,Metric screw
+B246,20,1,5,8,Metric screw
+B247,15,2,13.75,22,Metric screw
+B249,35,2,16.875,27,Metric screw
+B250,10,2,15,24,Metric screw
+B251,60,0.5,1.875,3,Metric screw
+B252,30,2.5,11.25,18,Metric screw
+B253,15,1,5,8,Metric screw
+B256,35,2,12.5,20,Metric screw
+B257,30,1.25,6.25,10,Metric screw
+B258,40,1,6.25,10,Metric screw
+B259,40,0.5,3.125,5,Metric screw
+B254,50,2,18.75,30,Metric screw
+B260,30,0.35,1.875,3,Metric screw
+B263,60,1.5,10,16,Metric screw
+B264,10,0.75,5,8,Metric screw
+B265,40,1.25,6.25,10,Metric screw
+B266,60,2.5,11.25,18,Metric screw
+B267,20,1.5,6.25,10,Metric screw
+B268,30,3,16.875,27,Metric screw
+B269,40,2,15,24,Metric screw
+B270,25,0.35,1.5625,2.5,Metric screw
+B271,25,1,5,8,Metric screw
+B272,50,2.5,13.75,22,Metric screw
+B273,50,1.25,5,8,Metric screw
+B274,50,1.5,13.75,22,Metric screw
+B281,10,2,10,16,Metric screw
+B283,50,0.25,1.25,2,Metric screw
+B284,25,2.5,13.75,22,Metric screw
+B286,35,3,16.875,27,Metric screw
+B287,30,2.5,12.5,20,Metric screw
+B290,50,0.35,1.875,3,Metric screw
+B291,30,0.25,1.25,2,Metric screw
+B292,15,1.5,7.5,12,Metric screw
+B294,20,1,3.75,6,Metric screw
+B296,25,0.8,3.125,5,Metric screw
+B279,60,1.5,8.75,14,Metric screw
+B261,10,1.5,13.75,22,Metric screw
+B217,20,1,6.25,10,Metric screw
+B228,15,0.45,1.5625,2.5,Metric screw
+B229,40,2.5,11.25,18,Metric screw
+B230,25,0.5,2.5,10.55,Metric screw
+B231,35,1.25,6.25,10,Metric screw
+B275,60,2,15,24,Metric screw
+B277,40,0.8,3.125,5,Metric screw
+B278,25,2,8.75,14,Metric screw
+B280,25,1.5,10,16,Metric screw
