@@ -1,0 +1,691 @@
+core, action, org:resource, DateTime
+core 0, Core Inspection & Cleaning, Technician 1, 2017-01-02 11:40:11
+core 0, Mechanical test,Mechanical Test Cell, 2017-01-02 12:47:33
+core 0, Electrical test,Electrical Department, 2017-01-02 12:53:50
+core 0, Disassembly and Component Inspection, Technician 1, 2017-01-02 16:21:06
+core 0, Rework and Reassemble, Technician 6, 2017-01-05 13:23:09
+core 0,Paint and Test, Technician 2, 2017-01-09 08:29:28
+core 1, Core Inspection & Cleaning, Technician 1, 2017-01-02 12:50:35
+core 1, Electrical test,Electrical Department, 2017-01-02 13:59:14
+core 1, Mechanical test,Mechanical Test Cell, 2017-01-02 14:20:19
+core 1,Structural test, Inspection Team 1, 2017-01-06 09:13:40
+core 1, Disassembly and Component Inspection, Technician 1, 2017-01-06 10:38:04
+core 1, Clean & Reassemble, Build Bay, 2017-01-06 11:47:36
+core 1,Paint and Test, Technician 1, 2017-01-06 16:49:21
+core 2, Core Inspection & Cleaning, Technician 1, 2017-01-04 10:02:49
+core 2, Electrical test,Electrical Department, 2017-01-06 09:05:01
+core 2,Structural test, Inspection Team 2, 2017-01-10 08:05:47
+core 2, Mechanical test,Mechanical Test Cell, 2017-01-10 09:12:09
+core 2, Disassembly and Component Inspection, Technician 1, 2017-01-12 16:32:00
+core 2, Clean & Reassemble, Build Bay, 2017-01-13 10:32:51
+core 2,Paint and Test, Technician 2, 2017-01-17 11:54:48
+core 3, Core Inspection & Cleaning, Technician 1, 2017-01-05 16:10:58
+core 3, Mechanical test,Mechanical Test Cell, 2017-01-06 08:15:00
+core 3,Structural test, Inspection Team 2, 2017-01-11 11:36:39
+core 3, Electrical test,Electrical Department, 2017-01-11 12:38:58
+core 3, Disassembly and Component Inspection, Technician 1, 2017-01-13 10:48:35
+core 3, Clean & Reassemble, Build Bay, 2017-01-13 13:51:21
+core 3,Paint and Test, Technician 2, 2017-01-17 13:17:06
+core 4, Core Inspection & Cleaning, Technician 3, 2017-01-09 12:35:37
+core 4, Mechanical test,Mechanical Test Cell, 2017-01-09 13:44:25
+core 4, Electrical test,Electrical Department, 2017-01-10 13:49:40
+core 4,Structural test, Inspection Team 1, 2017-01-13 13:39:04
+core 4, Disassembly and Component Inspection, Technician 1, 2017-01-18 15:47:58
+core 4, Clean & Reassemble, Build Bay, 2017-01-19 08:53:27
+core 4,Paint and Test, Technician 2, 2017-01-23 08:58:31
+core 5, Core Inspection & Cleaning, Technician 1, 2017-01-11 09:58:23
+core 5, Electrical test,Electrical Department, 2017-01-11 16:17:39
+core 5,Structural test, Inspection Team 2, 2017-01-11 16:25:11
+core 5, Mechanical test,Mechanical Test Cell, 2017-01-11 17:29:14
+core 5, Disassembly and Component Inspection, Technician 1, 2017-01-16 13:30:45
+core 5, Rework and Reassemble, Technician 4, 2017-01-19 12:40:02
+core 5,Paint and Test, Technician 2, 2017-01-20 12:53:16
+core 6, Core Inspection & Cleaning, Technician 3, 2017-01-12 17:18:39
+core 6, Electrical test,Electrical Department, 2017-01-12 17:40:43
+core 6, Mechanical test,Mechanical Test Cell, 2017-01-13 09:24:02
+core 6,Structural test, Inspection Team 2, 2017-01-18 10:18:48
+core 6, Disassembly and Component Inspection, Technician 3, 2017-01-23 14:38:21
+core 6, Rework and Reassemble, Technician 4, 2017-01-25 10:44:05
+core 6,Paint and Test, Technician 1, 2017-01-27 12:02:52
+core 7, Core Inspection & Cleaning, Technician 3, 2017-01-12 17:58:50
+core 7, Electrical test,Electrical Department, 2017-01-13 11:18:57
+core 7,Structural test, Inspection Team 1, 2017-01-17 11:25:26
+core 7, Mechanical test,Mechanical Test Cell, 2017-01-17 12:24:28
+core 7, Disassembly and Component Inspection, Technician 1, 2017-01-18 10:45:19
+core 7, Clean & Reassemble, Build Bay, 2017-01-18 12:48:13
+core 7,Paint and Test, Technician 1, 2017-01-20 14:11:01
+core 8, Core Inspection & Cleaning, Technician 3, 2017-01-13 13:24:15
+core 8,Structural test, Inspection Team 1, 2017-01-17 15:27:35
+core 8, Mechanical test,Mechanical Test Cell, 2017-01-17 16:10:55
+core 8, Electrical test,Electrical Department, 2017-01-17 16:21:03
+core 8, Disassembly and Component Inspection, Technician 1, 2017-01-18 14:37:25
+core 8, Clean & Reassemble, Build Bay, 2017-01-19 08:47:08
+core 8,Paint and Test, Technician 2, 2017-01-23 09:07:36
+core 9, Core Inspection & Cleaning, Technician 3, 2017-01-13 16:49:16
+core 9, Electrical test,Electrical Department, 2017-01-17 15:55:15
+core 9, Mechanical test,Mechanical Test Cell, 2017-01-17 16:51:57
+core 9, Disassembly and Component Inspection, Technician 1, 2017-01-19 15:01:50
+core 9, Rework and Reassemble, Technician 4, 2017-01-23 15:30:58
+core 9,Paint and Test, Technician 2, 2017-01-24 10:52:07
+core 10, Core Inspection & Cleaning, Technician 1, 2017-01-17 14:13:17
+core 10, Electrical test,Electrical Department, 2017-01-18 13:35:24
+core 10, Mechanical test,Mechanical Test Cell, 2017-01-18 13:50:11
+core 10,Structural test, Inspection Team 1, 2017-01-23 15:43:03
+core 10, Disassembly and Component Inspection, Technician 3, 2017-01-25 14:51:38
+core 10, Clean & Reassemble, Build Bay, 2017-01-26 09:10:40
+core 10,Paint and Test, Technician 2, 2017-01-30 11:19:19
+core 11, Core Inspection & Cleaning, Technician 3, 2017-01-19 13:35:20
+core 11, Electrical test,Electrical Department, 2017-01-19 15:52:24
+core 11, Mechanical test,Mechanical Test Cell, 2017-01-19 16:26:25
+core 11,Structural test, Inspection Team 2, 2017-01-20 10:39:39
+core 11, Disassembly and Component Inspection, Technician 1, 2017-01-24 14:06:44
+core 11, Rework and Reassemble, Technician 5, 2017-01-31 08:07:04
+core 11,Paint and Test, Technician 1, 2017-02-02 10:13:13
+core 12, Core Inspection & Cleaning, Technician 3, 2017-01-20 11:43:38
+core 12, Mechanical test,Mechanical Test Cell, 2017-01-20 12:45:10
+core 12,Structural test, Inspection Team 2, 2017-01-23 16:08:16
+core 12, Electrical test,Electrical Department, 2017-01-23 16:48:55
+core 12, Disassembly and Component Inspection, Technician 3, 2017-01-26 11:49:02
+core 12, Clean & Reassemble, Build Bay, 2017-01-26 12:53:26
+core 12,Paint and Test, Technician 2, 2017-01-27 11:18:57
+core 13, Core Inspection & Cleaning, Technician 3, 2017-01-23 15:09:10
+core 13,Structural test, Inspection Team 2, 2017-01-25 12:29:05
+core 13, Electrical test,Electrical Department, 2017-01-25 13:34:31
+core 13, Mechanical test,Mechanical Test Cell, 2017-01-25 14:25:04
+core 13, Disassembly and Component Inspection, Technician 1, 2017-01-27 12:37:29
+core 13, Clean & Reassemble, Build Bay, 2017-01-27 14:47:02
+core 13,Paint and Test, Technician 2, 2017-01-31 15:49:44
+core 14, Core Inspection & Cleaning, Technician 3, 2017-01-25 13:13:36
+core 14, Mechanical test,Mechanical Test Cell, 2017-01-25 14:17:20
+core 14,Structural test, Inspection Team 2, 2017-01-27 12:20:17
+core 14, Electrical test,Electrical Department, 2017-01-27 13:08:46
+core 14, Disassembly and Component Inspection, Technician 1, 2017-01-30 12:22:16
+core 14, Clean & Reassemble, Build Bay, 2017-01-30 14:37:05
+core 14,Paint and Test, Technician 1, 2017-02-02 10:52:11
+core 15, Core Inspection & Cleaning, Technician 1, 2017-01-26 11:23:03
+core 15, Electrical test,Electrical Department, 2017-01-26 14:42:41
+core 15, Mechanical test,Mechanical Test Cell, 2017-01-26 14:47:15
+core 15, Disassembly and Component Inspection, Technician 1, 2017-01-31 14:11:01
+core 15, Clean & Reassemble, Build Bay, 2017-01-31 16:15:51
+core 15,Paint and Test, Technician 1, 2017-02-03 09:18:04
+core 16, Core Inspection & Cleaning, Technician 1, 2017-01-26 16:47:05
+core 16, Electrical test,Electrical Department, 2017-01-27 14:10:15
+core 16, Mechanical test,Mechanical Test Cell, 2017-01-27 14:58:11
+core 16,Structural test, Inspection Team 1, 2017-02-01 11:49:28
+core 16, Disassembly and Component Inspection, Technician 3, 2017-02-06 09:11:56
+core 16, Clean & Reassemble, Build Bay, 2017-02-06 10:31:45
+core 16,Paint and Test, Technician 2, 2017-02-07 08:55:43
+core 17, Core Inspection & Cleaning, Technician 3, 2017-01-27 12:02:23
+core 17, Electrical test,Electrical Department, 2017-01-30 16:25:12
+core 17,Structural test, Inspection Team 2, 2017-02-02 12:23:06
+core 17, Mechanical test,Mechanical Test Cell, 2017-02-02 13:16:01
+core 17, Disassembly and Component Inspection, Technician 3, 2017-02-08 09:18:46
+core 17, Clean & Reassemble, Build Bay, 2017-02-08 12:38:03
+core 17,Paint and Test, Technician 2, 2017-02-09 12:46:25
+core 18, Core Inspection & Cleaning, Technician 3, 2017-01-30 13:24:38
+core 18,Structural test, Inspection Team 2, 2017-01-31 15:35:41
+core 18, Mechanical test,Mechanical Test Cell, 2017-01-31 15:51:55
+core 18, Electrical test,Electrical Department, 2017-01-31 16:19:59
+core 18, Disassembly and Component Inspection, Technician 1, 2017-02-03 15:42:28
+core 18, Clean & Reassemble, Build Bay, 2017-02-06 08:59:22
+core 18,Paint and Test, Technician 2, 2017-02-07 10:13:20
+core 19, Core Inspection & Cleaning, Technician 1, 2017-01-31 11:39:22
+core 19, Mechanical test,Mechanical Test Cell, 2017-01-31 12:55:08
+core 19,Structural test, Inspection Team 2, 2017-02-03 11:09:17
+core 19, Electrical test,Electrical Department, 2017-02-03 11:31:52
+core 19, Disassembly and Component Inspection, Technician 3, 2017-02-08 12:00:35
+core 19, Clean & Reassemble, Build Bay, 2017-02-08 13:12:06
+core 19,Paint and Test, Technician 2, 2017-02-10 09:34:06
+core 20, Core Inspection & Cleaning, Technician 1, 2017-02-01 13:54:11
+core 20, Mechanical test,Mechanical Test Cell, 2017-02-01 15:08:31
+core 20, Electrical test,Electrical Department, 2017-02-02 11:04:38
+core 20,Structural test, Inspection Team 1, 2017-02-03 15:59:58
+core 20, Disassembly and Component Inspection, Technician 3, 2017-02-08 09:23:33
+core 20, Clean & Reassemble, Build Bay, 2017-02-08 10:48:10
+core 20,Paint and Test, Technician 1, 2017-02-09 15:48:55
+core 21, Core Inspection & Cleaning, Technician 3, 2017-02-02 14:06:22
+core 21,Structural test, Inspection Team 2, 2017-02-06 11:07:50
+core 21, Mechanical test,Mechanical Test Cell, 2017-02-06 11:27:48
+core 21, Electrical test,Electrical Department, 2017-02-06 11:42:09
+core 21, Disassembly and Component Inspection, Technician 1, 2017-02-09 12:09:11
+core 21, Rework and Reassemble, Technician 6, 2017-02-13 14:24:28
+core 21,Paint and Test, Technician 1, 2017-02-14 09:35:22
+core 22, Core Inspection & Cleaning, Technician 3, 2017-02-06 10:25:17
+core 22, Mechanical test,Mechanical Test Cell, 2017-02-06 11:38:00
+core 22, Electrical test,Electrical Department, 2017-02-07 13:38:55
+core 22,Structural test, Inspection Team 1, 2017-02-10 15:32:09
+core 22, Disassembly and Component Inspection, Technician 1, 2017-02-15 15:52:53
+core 22, Clean & Reassemble, Build Bay, 2017-02-16 09:18:00
+core 22,Paint and Test, Technician 2, 2017-02-16 13:25:47
+core 23, Core Inspection & Cleaning, Technician 1, 2017-02-07 11:49:06
+core 23,Structural test, Inspection Team 2, 2017-02-08 09:56:27
+core 23, Mechanical test,Mechanical Test Cell, 2017-02-08 10:07:43
+core 23, Electrical test,Electrical Department, 2017-02-08 11:55:36
+core 23, Disassembly and Component Inspection, Technician 3, 2017-02-13 16:12:01
+core 23, Rework and Reassemble, Technician 5, 2017-02-20 15:19:54
+core 23,Paint and Test, Technician 1, 2017-02-23 11:30:26
+core 24, Core Inspection & Cleaning, Technician 3, 2017-02-08 12:08:50
+core 24, Mechanical test,Mechanical Test Cell, 2017-02-08 13:28:41
+core 24, Electrical test,Electrical Department, 2017-02-10 08:24:23
+core 24,Structural test, Inspection Team 1, 2017-02-10 09:59:48
+core 24, Disassembly and Component Inspection, Technician 1, 2017-02-14 10:22:13
+core 24, Clean & Reassemble, Build Bay, 2017-02-14 12:37:44
+core 24,Paint and Test, Technician 1, 2017-02-14 15:44:39
+core 25, Core Inspection & Cleaning, Technician 3, 2017-02-08 14:30:20
+core 25, Electrical test,Electrical Department, 2017-02-09 12:40:44
+core 25, Mechanical test,Mechanical Test Cell, 2017-02-09 13:31:11
+core 25, Disassembly and Component Inspection, Technician 3, 2017-02-09 14:31:47
+core 25, Clean & Reassemble, Build Bay, 2017-02-10 08:46:47
+core 25,Paint and Test, Technician 2, 2017-02-13 10:54:46
+core 26, Core Inspection & Cleaning, Technician 3, 2017-02-10 08:45:27
+core 26,Structural test, Inspection Team 2, 2017-02-14 10:47:38
+core 26, Electrical test,Electrical Department, 2017-02-14 11:15:21
+core 26, Mechanical test,Mechanical Test Cell, 2017-02-14 12:36:13
+core 26, Disassembly and Component Inspection, Technician 1, 2017-02-15 10:58:39
+core 26, Clean & Reassemble, Build Bay, 2017-02-15 12:07:00
+core 26,Paint and Test, Technician 2, 2017-02-17 15:15:51
+core 27, Core Inspection & Cleaning, Technician 3, 2017-02-10 10:07:44
+core 27, Electrical test,Electrical Department, 2017-02-13 14:15:25
+core 27, Mechanical test,Mechanical Test Cell, 2017-02-13 15:06:58
+core 27, Disassembly and Component Inspection, Technician 3, 2017-02-15 15:27:16
+core 27, Rework and Reassemble, Technician 7, 2017-02-17 13:32:48
+core 27,Paint and Test, Technician 1, 2017-02-17 14:45:21
+core 28, Core Inspection & Cleaning, Technician 3, 2017-02-10 16:32:01
+core 28, Mechanical test,Mechanical Test Cell, 2017-02-13 08:48:23
+core 28, Electrical test,Electrical Department, 2017-02-13 10:13:27
+core 28,Structural test, Inspection Team 2, 2017-02-17 14:00:06
+core 28, Disassembly and Component Inspection, Technician 1, 2017-02-20 16:18:50
+core 28, Clean & Reassemble, Build Bay, 2017-02-21 10:44:42
+core 28,Paint and Test, Technician 2, 2017-02-22 13:45:13
+core 29, Core Inspection & Cleaning, Technician 3, 2017-02-13 16:54:28
+core 29, Mechanical test,Mechanical Test Cell, 2017-02-14 09:01:47
+core 29, Electrical test,Electrical Department, 2017-02-15 10:02:05
+core 29, Disassembly and Component Inspection, Technician 1, 2017-02-20 16:21:52
+core 29, Clean & Reassemble, Build Bay, 2017-02-21 08:22:46
+core 29,Paint and Test, Technician 1, 2017-02-22 11:42:21
+core 30, Core Inspection & Cleaning, Technician 3, 2017-02-14 15:55:26
+core 30, Mechanical test,Mechanical Test Cell, 2017-02-14 17:22:32
+core 30, Electrical test,Electrical Department, 2017-02-15 14:05:13
+core 30,Structural test, Inspection Team 1, 2017-02-15 14:13:11
+core 30, Disassembly and Component Inspection, Technician 3, 2017-02-17 12:22:36
+core 30, Clean & Reassemble, Build Bay, 2017-02-17 13:41:15
+core 30,Paint and Test, Technician 1, 2017-02-21 17:00:10
+core 31, Core Inspection & Cleaning, Technician 1, 2017-02-15 10:56:47
+core 31,Structural test, Inspection Team 2, 2017-02-16 11:26:26
+core 31, Electrical test,Electrical Department, 2017-02-16 11:55:52
+core 31, Mechanical test,Mechanical Test Cell, 2017-02-16 12:22:32
+core 31, Disassembly and Component Inspection, Technician 1, 2017-02-20 11:47:14
+core 31, Clean & Reassemble, Build Bay, 2017-02-20 14:00:52
+core 31,Paint and Test, Technician 2, 2017-02-22 10:30:39
+core 32, Core Inspection & Cleaning, Technician 1, 2017-02-16 17:09:32
+core 32,Structural test, Inspection Team 2, 2017-02-17 11:13:41
+core 32, Mechanical test,Mechanical Test Cell, 2017-02-17 11:27:14
+core 32, Electrical test,Electrical Department, 2017-02-17 12:42:23
+core 32, Disassembly and Component Inspection, Technician 3, 2017-02-21 09:50:52
+core 32, Clean & Reassemble, Build Bay, 2017-02-21 12:54:29
+core 32,Paint and Test, Technician 1, 2017-02-23 08:56:17
+core 33, Core Inspection & Cleaning, Technician 1, 2017-02-17 15:27:23
+core 33, Electrical test,Electrical Department, 2017-02-20 08:43:18
+core 33, Mechanical test,Mechanical Test Cell, 2017-02-20 10:09:21
+core 33,Structural test, Inspection Team 1, 2017-02-22 08:29:29
+core 33, Disassembly and Component Inspection, Technician 3, 2017-02-23 08:45:32
+core 33, Rework and Reassemble, Technician 5, 2017-02-23 17:13:41
+core 33,Paint and Test, Technician 1, 2017-02-27 08:21:38
+core 34, Core Inspection & Cleaning, Technician 1, 2017-02-20 10:46:53
+core 34, Mechanical test,Mechanical Test Cell, 2017-02-20 12:13:18
+core 34, Electrical test,Electrical Department, 2017-02-21 16:06:06
+core 34,Structural test, Inspection Team 2, 2017-02-21 16:54:44
+core 34, Disassembly and Component Inspection, Technician 1, 2017-02-27 15:03:21
+core 34, Clean & Reassemble, Build Bay, 2017-02-28 09:10:28
+core 34,Paint and Test, Technician 1, 2017-03-02 13:24:27
+core 35, Core Inspection & Cleaning, Technician 1, 2017-02-20 17:09:45
+core 35, Mechanical test,Mechanical Test Cell, 2017-02-20 18:13:03
+core 35, Electrical test,Electrical Department, 2017-02-21 10:38:45
+core 35, Disassembly and Component Inspection, Technician 3, 2017-02-22 16:53:58
+core 35, Clean & Reassemble, Build Bay, 2017-02-23 10:22:22
+core 35,Paint and Test, Technician 2, 2017-02-23 14:36:45
+core 36, Core Inspection & Cleaning, Technician 1, 2017-02-21 07:31:07
+core 36, Electrical test,Electrical Department, 2017-02-21 11:43:22
+core 36,Structural test, Inspection Team 2, 2017-02-23 10:44:09
+core 36, Mechanical test,Mechanical Test Cell, 2017-02-23 11:09:43
+core 36, Disassembly and Component Inspection, Technician 1, 2017-02-24 15:15:52
+core 36, Rework and Reassemble, Technician 7, 2017-02-27 15:15:53
+core 36,Paint and Test, Technician 1, 2017-03-02 08:18:02
+core 37, Core Inspection & Cleaning, Technician 3, 2017-02-22 11:41:54
+core 37,Structural test, Inspection Team 2, 2017-02-28 17:01:18
+core 37, Mechanical test,Mechanical Test Cell, 2017-02-28 17:24:35
+core 37, Electrical test,Electrical Department, 2017-03-01 09:29:14
+core 37, Disassembly and Component Inspection, Technician 3, 2017-03-06 14:34:40
+core 37, Clean & Reassemble, Build Bay, 2017-03-07 08:55:50
+core 37,Paint and Test, Technician 2, 2017-03-09 12:22:03
+core 38, Core Inspection & Cleaning, Technician 1, 2017-02-24 10:04:44
+core 38, Mechanical test,Mechanical Test Cell, 2017-02-24 11:33:34
+core 38,Structural test, Inspection Team 1, 2017-02-27 15:25:30
+core 38, Electrical test,Electrical Department, 2017-02-27 16:05:27
+core 38, Disassembly and Component Inspection, Technician 1, 2017-03-02 15:26:48
+core 38, Clean & Reassemble, Build Bay, 2017-03-03 08:43:29
+core 38,Paint and Test, Technician 1, 2017-03-07 10:52:38
+core 39, Core Inspection & Cleaning, Technician 3, 2017-02-27 13:18:06
+core 39, Mechanical test,Mechanical Test Cell, 2017-02-27 14:37:41
+core 39,Structural test, Inspection Team 2, 2017-02-27 16:46:01
+core 39, Electrical test,Electrical Department, 2017-02-28 16:34:18
+core 39, Disassembly and Component Inspection, Technician 1, 2017-03-01 10:57:57
+core 39, Clean & Reassemble, Build Bay, 2017-03-01 13:21:33
+core 39,Paint and Test, Technician 1, 2017-03-02 12:32:44
+core 40, Core Inspection & Cleaning, Technician 3, 2017-02-28 12:37:53
+core 40, Electrical test,Electrical Department, 2017-03-01 13:01:02
+core 40, Mechanical test,Mechanical Test Cell, 2017-03-01 13:49:56
+core 40,Structural test, Inspection Team 2, 2017-03-01 14:32:05
+core 40, Disassembly and Component Inspection, Technician 1, 2017-03-02 14:32:32
+core 40, Rework and Reassemble, Technician 7, 2017-03-03 14:48:00
+core 40,Paint and Test, Technician 2, 2017-03-03 16:17:10
+core 41, Core Inspection & Cleaning, Technician 1, 2017-02-28 14:00:26
+core 41,Structural test, Inspection Team 2, 2017-03-02 10:28:00
+core 41, Electrical test,Electrical Department, 2017-03-02 13:15:38
+core 41, Mechanical test,Mechanical Test Cell, 2017-03-02 14:09:52
+core 41, Disassembly and Component Inspection, Technician 3, 2017-03-03 14:10:57
+core 41, Clean & Reassemble, Build Bay, 2017-03-03 16:34:57
+core 41,Paint and Test, Technician 1, 2017-03-07 15:45:53
+core 42, Core Inspection & Cleaning, Technician 1, 2017-03-02 11:06:48
+core 42, Mechanical test,Mechanical Test Cell, 2017-03-02 12:32:35
+core 42, Electrical test,Electrical Department, 2017-03-03 09:13:02
+core 42, Disassembly and Component Inspection, Technician 3, 2017-03-07 09:34:28
+core 42, Clean & Reassemble, Build Bay, 2017-03-07 12:42:26
+core 42,Paint and Test, Technician 2, 2017-03-09 15:57:09
+core 43, Core Inspection & Cleaning, Technician 1, 2017-03-02 14:32:58
+core 43, Mechanical test,Mechanical Test Cell, 2017-03-02 15:34:37
+core 43,Structural test, Inspection Team 2, 2017-03-03 15:53:48
+core 43, Electrical test,Electrical Department, 2017-03-06 08:53:20
+core 43, Disassembly and Component Inspection, Technician 3, 2017-03-07 16:22:55
+core 43, Clean & Reassemble, Build Bay, 2017-03-08 08:39:52
+core 43,Paint and Test, Technician 1, 2017-03-09 15:01:51
+core 44, Core Inspection & Cleaning, Technician 1, 2017-03-06 11:37:40
+core 44, Mechanical test,Mechanical Test Cell, 2017-03-06 12:51:40
+core 44, Electrical test,Electrical Department, 2017-03-06 14:07:06
+core 44,Structural test, Inspection Team 1, 2017-03-08 15:57:26
+core 44, Disassembly and Component Inspection, Technician 3, 2017-03-10 14:12:50
+core 44, Clean & Reassemble, Build Bay, 2017-03-13 08:37:05
+core 44,Paint and Test, Technician 1, 2017-03-15 10:55:33
+core 45, Core Inspection & Cleaning, Technician 3, 2017-03-07 13:06:04
+core 45, Electrical test,Electrical Department, 2017-03-08 09:18:16
+core 45, Mechanical test,Mechanical Test Cell, 2017-03-08 09:29:00
+core 45,Structural test, Inspection Team 2, 2017-03-13 14:29:16
+core 45, Disassembly and Component Inspection, Technician 1, 2017-03-17 12:48:08
+core 45, Clean & Reassemble, Build Bay, 2017-03-17 16:02:52
+core 45,Paint and Test, Technician 1, 2017-03-20 12:32:46
+core 46, Core Inspection & Cleaning, Technician 1, 2017-03-08 10:07:29
+core 46, Electrical test,Electrical Department, 2017-03-09 09:25:38
+core 46, Mechanical test,Mechanical Test Cell, 2017-03-09 09:43:06
+core 46,Structural test, Inspection Team 2, 2017-03-13 11:09:48
+core 46, Disassembly and Component Inspection, Technician 1, 2017-03-15 15:22:45
+core 46, Clean & Reassemble, Build Bay, 2017-03-15 16:49:38
+core 46,Paint and Test, Technician 1, 2017-03-20 11:10:16
+core 47, Core Inspection & Cleaning, Technician 1, 2017-03-10 09:27:44
+core 47,Structural test, Inspection Team 1, 2017-03-16 11:37:27
+core 47, Mechanical test,Mechanical Test Cell, 2017-03-16 11:56:43
+core 47, Electrical test,Electrical Department, 2017-03-16 12:21:37
+core 47, Disassembly and Component Inspection, Technician 1, 2017-03-21 16:24:41
+core 47, Rework and Reassemble, Technician 5, 2017-03-23 14:44:57
+core 47,Paint and Test, Technician 1, 2017-03-27 12:10:48
+core 48, Core Inspection & Cleaning, Technician 1, 2017-03-10 16:51:31
+core 48,Structural test, Inspection Team 2, 2017-03-13 12:06:22
+core 48, Mechanical test,Mechanical Test Cell, 2017-03-13 12:59:29
+core 48, Electrical test,Electrical Department, 2017-03-13 14:04:39
+core 48, Disassembly and Component Inspection, Technician 1, 2017-03-13 15:14:44
+core 48, Clean & Reassemble, Build Bay, 2017-03-13 16:40:09
+core 48,Paint and Test, Technician 2, 2017-03-15 14:51:56
+core 49, Core Inspection & Cleaning, Technician 3, 2017-03-13 10:20:01
+core 49, Electrical test,Electrical Department, 2017-03-14 15:48:49
+core 49,Structural test, Inspection Team 2, 2017-03-16 08:33:34
+core 49, Mechanical test,Mechanical Test Cell, 2017-03-16 09:24:14
+core 49, Disassembly and Component Inspection, Technician 3, 2017-03-20 09:35:56
+core 49, Clean & Reassemble, Build Bay, 2017-03-20 10:42:23
+core 49,Paint and Test, Technician 2, 2017-03-22 15:43:30
+core 50, Core Inspection & Cleaning, Technician 3, 2017-03-14 12:46:07
+core 50, Mechanical test,Mechanical Test Cell, 2017-03-14 14:12:15
+core 50,Structural test, Inspection Team 1, 2017-03-20 10:55:04
+core 50, Electrical test,Electrical Department, 2017-03-20 11:13:52
+core 50, Disassembly and Component Inspection, Technician 3, 2017-03-22 15:38:58
+core 50, Clean & Reassemble, Build Bay, 2017-03-23 10:08:32
+core 50,Paint and Test, Technician 1, 2017-03-27 09:18:42
+core 51, Core Inspection & Cleaning, Technician 1, 2017-03-15 14:48:17
+core 51, Mechanical test,Mechanical Test Cell, 2017-03-15 16:05:37
+core 51, Electrical test,Electrical Department, 2017-03-16 14:56:52
+core 51,Structural test, Inspection Team 2, 2017-03-17 15:59:13
+core 51, Disassembly and Component Inspection, Technician 3, 2017-03-23 10:18:36
+core 51, Clean & Reassemble, Build Bay, 2017-03-23 12:23:03
+core 51,Paint and Test, Technician 1, 2017-03-27 11:26:38
+core 52, Core Inspection & Cleaning, Technician 3, 2017-03-16 12:56:35
+core 52, Electrical test,Electrical Department, 2017-03-17 15:04:05
+core 52, Mechanical test,Mechanical Test Cell, 2017-03-17 15:08:07
+core 52, Disassembly and Component Inspection, Technician 1, 2017-03-22 15:11:45
+core 52, Clean & Reassemble, Build Bay, 2017-03-22 16:34:19
+core 52,Paint and Test, Technician 2, 2017-03-23 13:38:57
+core 53, Core Inspection & Cleaning, Technician 1, 2017-03-20 11:01:55
+core 53,Structural test, Inspection Team 1, 2017-03-24 10:31:48
+core 53, Electrical test,Electrical Department, 2017-03-24 11:02:39
+core 53, Mechanical test,Mechanical Test Cell, 2017-03-24 11:08:22
+core 53, Disassembly and Component Inspection, Technician 1, 2017-03-27 14:25:23
+core 53, Clean & Reassemble, Build Bay, 2017-03-27 16:33:46
+core 53,Paint and Test, Technician 2, 2017-03-29 15:44:35
+core 54, Core Inspection & Cleaning, Technician 3, 2017-03-21 08:04:08
+core 54, Mechanical test,Mechanical Test Cell, 2017-03-21 09:30:54
+core 54,Structural test, Inspection Team 1, 2017-03-22 08:30:11
+core 54, Electrical test,Electrical Department, 2017-03-22 09:37:41
+core 54, Disassembly and Component Inspection, Technician 1, 2017-03-22 16:44:21
+core 54, Clean & Reassemble, Build Bay, 2017-03-23 08:58:13
+core 54,Paint and Test, Technician 1, 2017-03-24 15:11:19
+core 55, Core Inspection & Cleaning, Technician 1, 2017-03-22 09:18:12
+core 55, Mechanical test,Mechanical Test Cell, 2017-03-22 10:26:31
+core 55, Electrical test,Electrical Department, 2017-03-23 10:26:10
+core 55,Structural test, Inspection Team 1, 2017-03-23 10:57:34
+core 55, Disassembly and Component Inspection, Technician 1, 2017-03-27 12:04:01
+core 55, Clean & Reassemble, Build Bay, 2017-03-27 15:30:24
+core 55,Paint and Test, Technician 2, 2017-03-27 16:44:53
+core 56, Core Inspection & Cleaning, Technician 1, 2017-03-23 10:22:44
+core 56, Electrical test,Electrical Department, 2017-03-23 11:38:33
+core 56,Structural test, Inspection Team 2, 2017-03-24 14:52:02
+core 56, Mechanical test,Mechanical Test Cell, 2017-03-24 15:14:38
+core 56, Disassembly and Component Inspection, Technician 1, 2017-03-29 14:34:09
+core 56, Clean & Reassemble, Build Bay, 2017-03-29 15:48:49
+core 56,Paint and Test, Technician 1, 2017-04-03 10:12:54
+core 57, Core Inspection & Cleaning, Technician 3, 2017-03-27 08:34:57
+core 57, Mechanical test,Mechanical Test Cell, 2017-03-27 09:38:41
+core 57,Structural test, Inspection Team 1, 2017-03-30 14:03:38
+core 57, Electrical test,Electrical Department, 2017-03-30 15:03:25
+core 57, Disassembly and Component Inspection, Technician 3, 2017-03-31 11:30:47
+core 57, Clean & Reassemble, Build Bay, 2017-03-31 12:53:19
+core 57,Paint and Test, Technician 2, 2017-03-31 15:07:30
+core 58, Core Inspection & Cleaning, Technician 1, 2017-03-27 13:52:39
+core 58,Structural test, Inspection Team 1, 2017-04-03 08:57:57
+core 58, Electrical test,Electrical Department, 2017-04-03 10:11:53
+core 58, Mechanical test,Mechanical Test Cell, 2017-04-03 10:52:39
+core 58, Disassembly and Component Inspection, Technician 3, 2017-04-06 16:08:52
+core 58, Clean & Reassemble, Build Bay, 2017-04-07 08:36:16
+core 58,Paint and Test, Technician 2, 2017-04-11 09:43:09
+core 59, Core Inspection & Cleaning, Technician 3, 2017-03-28 11:19:41
+core 59,Structural test, Inspection Team 1, 2017-03-31 09:37:25
+core 59, Mechanical test,Mechanical Test Cell, 2017-03-31 09:38:03
+core 59, Electrical test,Electrical Department, 2017-03-31 10:39:05
+core 59, Disassembly and Component Inspection, Technician 1, 2017-04-04 10:01:13
+core 59, Clean & Reassemble, Build Bay, 2017-04-04 12:27:42
+core 59,Paint and Test, Technician 1, 2017-04-05 10:36:17
+core 60, Core Inspection & Cleaning, Technician 3, 2017-03-30 08:24:53
+core 60, Mechanical test,Mechanical Test Cell, 2017-03-30 09:43:26
+core 60,Structural test, Inspection Team 1, 2017-03-31 14:33:03
+core 60, Electrical test,Electrical Department, 2017-03-31 14:45:43
+core 60, Disassembly and Component Inspection, Technician 1, 2017-04-03 11:15:35
+core 60, Clean & Reassemble, Build Bay, 2017-04-03 12:22:29
+core 60,Paint and Test, Technician 2, 2017-04-05 13:32:12
+core 61, Core Inspection & Cleaning, Technician 1, 2017-03-30 13:51:15
+core 61,Structural test, Inspection Team 2, 2017-03-31 13:56:19
+core 61, Electrical test,Electrical Department, 2017-04-03 12:06:01
+core 61, Mechanical test,Mechanical Test Cell, 2017-04-03 12:10:32
+core 61, Disassembly and Component Inspection, Technician 3, 2017-04-03 13:28:51
+core 61, Clean & Reassemble, Build Bay, 2017-04-03 15:50:08
+core 61,Paint and Test, Technician 2, 2017-04-05 16:17:27
+core 62, Core Inspection & Cleaning, Technician 3, 2017-03-30 15:19:58
+core 62,Structural test, Inspection Team 2, 2017-04-06 08:46:50
+core 62, Electrical test,Electrical Department, 2017-04-06 09:23:02
+core 62, Mechanical test,Mechanical Test Cell, 2017-04-06 09:46:45
+core 62, Disassembly and Component Inspection, Technician 3, 2017-04-06 11:51:33
+core 62, Rework and Reassemble, Technician 6, 2017-04-11 11:04:19
+core 62,Paint and Test, Technician 1, 2017-04-12 15:21:36
+core 63, Core Inspection & Cleaning, Technician 3, 2017-03-31 15:33:44
+core 63,Structural test, Inspection Team 1, 2017-04-05 11:40:47
+core 63, Electrical test,Electrical Department, 2017-04-05 12:02:35
+core 63, Mechanical test,Mechanical Test Cell, 2017-04-05 12:22:24
+core 63, Disassembly and Component Inspection, Technician 1, 2017-04-10 12:38:16
+core 63, Clean & Reassemble, Build Bay, 2017-04-10 15:05:55
+core 63,Paint and Test, Technician 2, 2017-04-11 16:13:50
+core 64, Core Inspection & Cleaning, Technician 1, 2017-04-03 15:58:35
+core 64, Mechanical test,Mechanical Test Cell, 2017-04-03 17:05:40
+core 64, Electrical test,Electrical Department, 2017-04-04 13:14:10
+core 64,Structural test, Inspection Team 2, 2017-04-06 12:22:58
+core 64, Disassembly and Component Inspection, Technician 1, 2017-04-11 14:40:44
+core 64, Rework and Reassemble, Technician 4, 2017-04-17 15:44:09
+core 64,Paint and Test, Technician 1, 2017-04-20 10:09:25
+core 65, Core Inspection & Cleaning, Technician 3, 2017-04-04 17:27:35
+core 65, Electrical test,Electrical Department, 2017-04-05 08:47:20
+core 65,Structural test, Inspection Team 1, 2017-04-06 08:29:12
+core 65, Mechanical test,Mechanical Test Cell, 2017-04-06 09:49:02
+core 65, Disassembly and Component Inspection, Technician 3, 2017-04-10 09:18:14
+core 65, Clean & Reassemble, Build Bay, 2017-04-10 10:37:42
+core 65,Paint and Test, Technician 2, 2017-04-11 08:57:53
+core 66, Core Inspection & Cleaning, Technician 1, 2017-04-05 07:36:40
+core 66, Mechanical test,Mechanical Test Cell, 2017-04-05 08:44:30
+core 66, Electrical test,Electrical Department, 2017-04-06 14:52:08
+core 66,Structural test, Inspection Team 1, 2017-04-06 16:01:42
+core 66, Disassembly and Component Inspection, Technician 3, 2017-04-12 10:28:57
+core 66, Clean & Reassemble, Build Bay, 2017-04-12 12:38:39
+core 66,Paint and Test, Technician 1, 2017-04-14 14:03:32
+core 67, Core Inspection & Cleaning, Technician 1, 2017-04-06 10:49:36
+core 67, Electrical test,Electrical Department, 2017-04-10 09:05:40
+core 67, Mechanical test,Mechanical Test Cell, 2017-04-10 09:44:17
+core 67,Structural test, Inspection Team 1, 2017-04-10 15:10:51
+core 67, Disassembly and Component Inspection, Technician 1, 2017-04-14 10:35:55
+core 67, Clean & Reassemble, Build Bay, 2017-04-14 13:57:12
+core 67,Paint and Test, Technician 2, 2017-04-17 13:00:11
+core 68, Core Inspection & Cleaning, Technician 1, 2017-04-06 13:00:35
+core 68, Electrical test,Electrical Department, 2017-04-07 13:26:40
+core 68,Structural test, Inspection Team 2, 2017-04-11 12:02:48
+core 68, Mechanical test,Mechanical Test Cell, 2017-04-11 13:03:03
+core 68, Disassembly and Component Inspection, Technician 3, 2017-04-11 15:13:29
+core 68, Clean & Reassemble, Build Bay, 2017-04-11 16:14:59
+core 68,Paint and Test, Technician 2, 2017-04-13 10:23:00
+core 69, Core Inspection & Cleaning, Technician 3, 2017-04-07 16:25:52
+core 69,Structural test, Inspection Team 2, 2017-04-13 12:27:18
+core 69, Electrical test,Electrical Department, 2017-04-13 13:18:56
+core 69, Mechanical test,Mechanical Test Cell, 2017-04-13 13:55:40
+core 69, Disassembly and Component Inspection, Technician 1, 2017-04-14 16:16:24
+core 69, Clean & Reassemble, Build Bay, 2017-04-17 10:40:26
+core 69,Paint and Test, Technician 2, 2017-04-17 12:47:07
+core 70, Core Inspection & Cleaning, Technician 1, 2017-04-10 09:39:16
+core 70,Structural test, Inspection Team 1, 2017-04-14 08:56:27
+core 70, Mechanical test,Mechanical Test Cell, 2017-04-14 10:06:16
+core 70, Electrical test,Electrical Department, 2017-04-14 10:40:59
+core 70, Disassembly and Component Inspection, Technician 3, 2017-04-14 14:44:23
+core 70, Clean & Reassemble, Build Bay, 2017-04-17 09:06:45
+core 70,Paint and Test, Technician 2, 2017-04-18 09:31:56
+core 71, Core Inspection & Cleaning, Technician 1, 2017-04-10 16:07:38
+core 71,Structural test, Inspection Team 1, 2017-04-14 13:26:27
+core 71, Mechanical test,Mechanical Test Cell, 2017-04-14 13:58:12
+core 71, Electrical test,Electrical Department, 2017-04-14 14:07:20
+core 71, Disassembly and Component Inspection, Technician 1, 2017-04-19 09:36:27
+core 71, Clean & Reassemble, Build Bay, 2017-04-19 11:01:49
+core 71,Paint and Test, Technician 1, 2017-04-20 15:26:01
+core 72, Core Inspection & Cleaning, Technician 1, 2017-04-12 15:24:05
+core 72, Mechanical test,Mechanical Test Cell, 2017-04-12 16:53:23
+core 72,Structural test, Inspection Team 1, 2017-04-19 13:28:47
+core 72, Electrical test,Electrical Department, 2017-04-19 13:32:15
+core 72, Disassembly and Component Inspection, Technician 1, 2017-04-25 10:47:51
+core 72, Clean & Reassemble, Build Bay, 2017-04-25 13:57:41
+core 72,Paint and Test, Technician 1, 2017-04-26 09:11:57
+core 73, Core Inspection & Cleaning, Technician 3, 2017-04-13 14:27:05
+core 73, Electrical test,Electrical Department, 2017-04-17 08:28:27
+core 73, Mechanical test,Mechanical Test Cell, 2017-04-17 09:49:53
+core 73,Structural test, Inspection Team 2, 2017-04-18 10:39:47
+core 73, Disassembly and Component Inspection, Technician 1, 2017-04-19 16:54:24
+core 73, Clean & Reassemble, Build Bay, 2017-04-20 09:01:26
+core 73,Paint and Test, Technician 2, 2017-04-24 13:17:24
+core 74, Core Inspection & Cleaning, Technician 1, 2017-04-17 12:47:57
+core 74, Electrical test,Electrical Department, 2017-04-19 10:03:09
+core 74, Mechanical test,Mechanical Test Cell, 2017-04-19 11:15:41
+core 74,Structural test, Inspection Team 2, 2017-04-21 12:51:43
+core 74, Disassembly and Component Inspection, Technician 3, 2017-04-25 11:58:24
+core 74, Clean & Reassemble, Build Bay, 2017-04-25 14:22:28
+core 74,Paint and Test, Technician 1, 2017-04-26 08:50:55
+core 75, Core Inspection & Cleaning, Technician 3, 2017-04-18 15:51:31
+core 75, Mechanical test,Mechanical Test Cell, 2017-04-18 17:03:08
+core 75, Electrical test,Electrical Department, 2017-04-19 17:19:04
+core 75,Structural test, Inspection Team 2, 2017-04-20 13:09:54
+core 75, Disassembly and Component Inspection, Technician 3, 2017-04-21 11:20:06
+core 75, Clean & Reassemble, Build Bay, 2017-04-21 12:40:54
+core 75,Paint and Test, Technician 1, 2017-04-25 15:04:02
+core 76, Core Inspection & Cleaning, Technician 3, 2017-04-19 10:52:43
+core 76, Mechanical test,Mechanical Test Cell, 2017-04-19 12:21:40
+core 76,Structural test, Inspection Team 1, 2017-04-19 14:05:24
+core 76, Electrical test,Electrical Department, 2017-04-19 14:40:28
+core 76, Disassembly and Component Inspection, Technician 1, 2017-04-19 15:59:10
+core 76, Clean & Reassemble, Build Bay, 2017-04-19 17:14:14
+core 76,Paint and Test, Technician 2, 2017-04-20 12:26:47
+core 77, Core Inspection & Cleaning, Technician 1, 2017-04-19 14:08:33
+core 77, Mechanical test,Mechanical Test Cell, 2017-04-19 15:08:42
+core 77,Structural test, Inspection Team 2, 2017-04-24 14:28:47
+core 77, Electrical test,Electrical Department, 2017-04-24 15:49:05
+core 77, Disassembly and Component Inspection, Technician 1, 2017-04-26 16:11:56
+core 77, Clean & Reassemble, Build Bay, 2017-04-27 09:41:01
+core 77,Paint and Test, Technician 1, 2017-04-28 14:55:23
+core 78, Core Inspection & Cleaning, Technician 3, 2017-04-20 14:27:40
+core 78, Electrical test,Electrical Department, 2017-04-24 09:49:46
+core 78,Structural test, Inspection Team 2, 2017-04-24 10:40:46
+core 78, Mechanical test,Mechanical Test Cell, 2017-04-24 10:59:40
+core 78, Disassembly and Component Inspection, Technician 3, 2017-04-27 10:15:18
+core 78, Rework and Reassemble, Technician 4, 2017-05-03 16:22:39
+core 78,Paint and Test, Technician 1, 2017-05-05 09:45:51
+core 79, Core Inspection & Cleaning, Technician 3, 2017-04-21 13:41:51
+core 79, Mechanical test,Mechanical Test Cell, 2017-04-21 14:42:00
+core 79,Structural test, Inspection Team 1, 2017-04-27 15:05:45
+core 79, Electrical test,Electrical Department, 2017-04-27 15:39:25
+core 79, Disassembly and Component Inspection, Technician 3, 2017-05-01 12:02:01
+core 79, Clean & Reassemble, Build Bay, 2017-05-01 15:24:50
+core 79,Paint and Test, Technician 2, 2017-05-03 10:49:42
+core 80, Core Inspection & Cleaning, Technician 3, 2017-04-21 15:10:39
+core 80,Structural test, Inspection Team 2, 2017-04-27 14:39:13
+core 80, Electrical test,Electrical Department, 2017-04-27 15:10:26
+core 80, Mechanical test,Mechanical Test Cell, 2017-04-27 15:55:35
+core 80, Disassembly and Component Inspection, Technician 3, 2017-04-28 13:14:54
+core 80, Clean & Reassemble, Build Bay, 2017-04-28 16:17:29
+core 80,Paint and Test, Technician 1, 2017-05-01 13:19:23
+core 81, Core Inspection & Cleaning, Technician 1, 2017-04-25 10:28:13
+core 81, Mechanical test,Mechanical Test Cell, 2017-04-25 11:57:57
+core 81,Structural test, Inspection Team 2, 2017-04-26 10:44:51
+core 81, Electrical test,Electrical Department, 2017-04-26 10:53:47
+core 81, Disassembly and Component Inspection, Technician 3, 2017-04-28 09:55:38
+core 81, Clean & Reassemble, Build Bay, 2017-04-28 12:07:52
+core 81,Paint and Test, Technician 2, 2017-05-01 13:37:20
+core 82, Core Inspection & Cleaning, Technician 1, 2017-04-25 13:36:18
+core 82,Structural test, Inspection Team 2, 2017-04-26 11:42:00
+core 82, Electrical test,Electrical Department, 2017-04-26 14:01:00
+core 82, Mechanical test,Mechanical Test Cell, 2017-04-26 15:00:04
+core 82, Disassembly and Component Inspection, Technician 3, 2017-05-01 13:02:09
+core 82, Clean & Reassemble, Build Bay, 2017-05-01 14:19:59
+core 82,Paint and Test, Technician 2, 2017-05-02 15:28:53
+core 83, Core Inspection & Cleaning, Technician 3, 2017-04-25 15:36:24
+core 83,Structural test, Inspection Team 1, 2017-05-01 16:42:06
+core 83, Mechanical test,Mechanical Test Cell, 2017-05-01 18:01:47
+core 83, Electrical test,Electrical Department, 2017-05-02 10:00:43
+core 83, Disassembly and Component Inspection, Technician 3, 2017-05-05 10:13:37
+core 83, Rework and Reassemble, Technician 6, 2017-05-10 16:13:37
+core 83,Paint and Test, Technician 1, 2017-05-12 13:24:42
+core 84, Core Inspection & Cleaning, Technician 3, 2017-04-27 13:43:32
+core 84, Mechanical test,Mechanical Test Cell, 2017-04-27 14:45:42
+core 84,Structural test, Inspection Team 1, 2017-05-03 09:50:47
+core 84, Electrical test,Electrical Department, 2017-05-03 10:37:58
+core 84, Disassembly and Component Inspection, Technician 1, 2017-05-08 10:06:31
+core 84, Clean & Reassemble, Build Bay, 2017-05-08 13:16:21
+core 84,Paint and Test, Technician 1, 2017-05-09 16:37:13
+core 85, Core Inspection & Cleaning, Technician 3, 2017-04-28 16:09:52
+core 85, Electrical test,Electrical Department, 2017-05-01 10:38:56
+core 85, Mechanical test,Mechanical Test Cell, 2017-05-01 10:53:47
+core 85,Structural test, Inspection Team 2, 2017-05-03 15:18:16
+core 85, Disassembly and Component Inspection, Technician 1, 2017-05-05 14:36:18
+core 85, Clean & Reassemble, Build Bay, 2017-05-05 15:54:55
+core 85,Paint and Test, Technician 2, 2017-05-10 12:07:20
+core 86, Core Inspection & Cleaning, Technician 1, 2017-05-02 12:31:11
+core 86, Electrical test,Electrical Department, 2017-05-02 13:34:17
+core 86,Structural test, Inspection Team 1, 2017-05-08 13:49:03
+core 86, Mechanical test,Mechanical Test Cell, 2017-05-08 14:13:54
+core 86, Disassembly and Component Inspection, Technician 1, 2017-05-10 11:18:45
+core 86, Clean & Reassemble, Build Bay, 2017-05-10 14:30:01
+core 86,Paint and Test, Technician 1, 2017-05-12 10:35:21
+core 87, Core Inspection & Cleaning, Technician 1, 2017-05-04 10:56:40
+core 87, Mechanical test,Mechanical Test Cell, 2017-05-04 11:57:08
+core 87, Electrical test,Electrical Department, 2017-05-05 13:24:09
+core 87,Structural test, Inspection Team 2, 2017-05-11 09:09:09
+core 87, Disassembly and Component Inspection, Technician 3, 2017-05-12 15:32:14
+core 87, Rework and Reassemble, Technician 6, 2017-05-17 15:01:26
+core 87,Paint and Test, Technician 2, 2017-05-19 16:11:27
+core 88, Core Inspection & Cleaning, Technician 1, 2017-05-04 16:00:47
+core 88, Electrical test,Electrical Department, 2017-05-08 11:05:40
+core 88,Structural test, Inspection Team 1, 2017-05-08 11:36:34
+core 88, Mechanical test,Mechanical Test Cell, 2017-05-08 12:03:36
+core 88, Disassembly and Component Inspection, Technician 1, 2017-05-09 10:24:43
+core 88, Clean & Reassemble, Build Bay, 2017-05-09 12:32:53
+core 88,Paint and Test, Technician 1, 2017-05-10 12:48:31
+core 89, Core Inspection & Cleaning, Technician 1, 2017-05-05 11:08:34
+core 89,Structural test, Inspection Team 1, 2017-05-09 16:37:55
+core 89, Mechanical test,Mechanical Test Cell, 2017-05-09 17:23:35
+core 89, Electrical test,Electrical Department, 2017-05-09 17:28:50
+core 89, Disassembly and Component Inspection, Technician 3, 2017-05-10 14:32:15
+core 89, Clean & Reassemble, Build Bay, 2017-05-11 08:38:50
+core 89,Paint and Test, Technician 1, 2017-05-15 14:07:55
+core 90, Core Inspection & Cleaning, Technician 1, 2017-05-08 15:30:08
+core 90, Electrical test,Electrical Department, 2017-05-10 10:38:55
+core 90, Mechanical test,Mechanical Test Cell, 2017-05-10 10:41:06
+core 90,Structural test, Inspection Team 2, 2017-05-10 11:55:41
+core 90, Disassembly and Component Inspection, Technician 3, 2017-05-11 14:03:43
+core 90, Clean & Reassemble, Build Bay, 2017-05-11 15:15:44
+core 90,Paint and Test, Technician 2, 2017-05-11 16:34:28
+core 91, Core Inspection & Cleaning, Technician 1, 2017-05-09 12:43:12
+core 91, Mechanical test,Mechanical Test Cell, 2017-05-09 13:58:10
+core 91, Electrical test,Electrical Department, 2017-05-09 14:11:16
+core 91,Structural test, Inspection Team 1, 2017-05-15 14:05:24
+core 91, Disassembly and Component Inspection, Technician 1, 2017-05-18 11:20:32
+core 91, Clean & Reassemble, Build Bay, 2017-05-18 14:40:24
+core 91,Paint and Test, Technician 2, 2017-05-19 14:52:21
+core 92, Core Inspection & Cleaning, Technician 1, 2017-05-09 16:07:10
+core 92, Electrical test,Electrical Department, 2017-05-11 11:09:15
+core 92,Structural test, Inspection Team 2, 2017-05-15 08:08:25
+core 92, Mechanical test,Mechanical Test Cell, 2017-05-15 10:11:50
+core 92, Disassembly and Component Inspection, Technician 1, 2017-05-18 16:27:32
+core 92, Clean & Reassemble, Build Bay, 2017-05-19 08:36:50
+core 92,Paint and Test, Technician 1, 2017-05-22 15:37:59
+core 93, Core Inspection & Cleaning, Technician 1, 2017-05-10 16:26:26
+core 93, Electrical test,Electrical Department, 2017-05-11 12:28:17
+core 93,Structural test, Inspection Team 1, 2017-05-12 08:51:36
+core 93, Mechanical test,Mechanical Test Cell, 2017-05-12 09:56:41
+core 93, Disassembly and Component Inspection, Technician 3, 2017-05-17 14:06:14
+core 93, Clean & Reassemble, Build Bay, 2017-05-17 15:25:14
+core 93,Paint and Test, Technician 2, 2017-05-22 09:33:48
+core 94, Core Inspection & Cleaning, Technician 1, 2017-05-12 12:50:53
+core 94, Mechanical test,Mechanical Test Cell, 2017-05-12 13:51:31
+core 94, Electrical test,Electrical Department, 2017-05-12 13:53:01
+core 94,Structural test, Inspection Team 1, 2017-05-18 10:20:19
+core 94, Disassembly and Component Inspection, Technician 1, 2017-05-22 08:36:27
+core 94, Rework and Reassemble, Technician 4, 2017-05-26 12:50:41
+core 94,Paint and Test, Technician 2, 2017-05-29 09:11:38
+core 95, Core Inspection & Cleaning, Technician 1, 2017-05-15 09:15:08
+core 95, Mechanical test,Mechanical Test Cell, 2017-05-15 10:22:25
+core 95, Electrical test,Electrical Department, 2017-05-15 14:36:18
+core 95, Disassembly and Component Inspection, Technician 3, 2017-05-18 13:03:30
+core 95, Rework and Reassemble, Technician 4, 2017-05-23 14:14:00
+core 95,Paint and Test, Technician 1, 2017-05-26 10:19:34
+core 96, Core Inspection & Cleaning, Technician 3, 2017-05-15 10:31:45
+core 96, Mechanical test,Mechanical Test Cell, 2017-05-15 11:40:18
+core 96, Electrical test,Electrical Department, 2017-05-16 14:49:01
+core 96,Structural test, Inspection Team 2, 2017-05-18 14:46:55
+core 96, Disassembly and Component Inspection, Technician 3, 2017-05-23 11:58:28
+core 96, Clean & Reassemble, Build Bay, 2017-05-23 13:25:13
+core 96,Paint and Test, Technician 1, 2017-05-24 16:38:21
+core 97, Core Inspection & Cleaning, Technician 3, 2017-05-17 08:44:01
+core 97,Structural test, Inspection Team 1, 2017-05-17 16:12:44
+core 97, Electrical test,Electrical Department, 2017-05-18 12:53:49
+core 97, Mechanical test,Mechanical Test Cell, 2017-05-18 13:55:10
+core 97, Disassembly and Component Inspection, Technician 3, 2017-05-19 14:00:51
+core 97, Clean & Reassemble, Build Bay, 2017-05-19 16:25:51
+core 97,Paint and Test, Technician 1, 2017-05-22 14:37:56
+core 98, Core Inspection & Cleaning, Technician 1, 2017-05-17 10:56:48
+core 98,Structural test, Inspection Team 2, 2017-05-23 13:59:10
+core 98, Electrical test,Electrical Department, 2017-05-23 14:37:42
+core 98, Mechanical test,Mechanical Test Cell, 2017-05-23 15:46:01
+core 98, Disassembly and Component Inspection, Technician 1, 2017-05-26 11:53:12
+core 98, Rework and Reassemble, Technician 5, 2017-05-30 14:13:17
+core 98,Paint and Test, Technician 2, 2017-05-31 14:16:13
+core 99, Core Inspection & Cleaning, Technician 3, 2017-05-18 11:57:11
+core 99, Mechanical test,Mechanical Test Cell, 2017-05-18 13:13:44
+core 99,Structural test, Inspection Team 2, 2017-05-25 11:03:27
+core 99, Electrical test,Electrical Department, 2017-05-25 11:55:24
+core 99, Disassembly and Component Inspection, Technician 1, 2017-05-29 15:12:39
+core 99, Clean & Reassemble, Build Bay, 2017-05-29 16:17:13
+core 99,Paint and Test, Technician 1, 2017-05-31 12:46:43
